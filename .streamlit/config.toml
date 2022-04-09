@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor="purple"
+backgroundColor="black"
+secondaryBackgroundColor="red"
+textColor="white"
+font="monospace"
